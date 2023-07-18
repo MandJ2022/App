@@ -54,6 +54,7 @@ p1 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     column-gap: 20px;
+    padding: 20px;
 }
 .portfolio{
     height: 200px;
@@ -62,6 +63,7 @@ p1 {
     border-radius: 10px;
     filter: brightness(50%);
     box-shadow: inset 0px 0px 20px 0px black;
+    border: 4px solid #5F3CAD;
 }
 
 .portfolio:hover{
@@ -86,6 +88,7 @@ p1 {
     border-radius: 10px;
     filter: brightness(50%);
     box-shadow: inset 0px 0px 20px 0px black;
+    border: 4px solid #5F3CAD;
 }
 
 .portfolio2:hover{
