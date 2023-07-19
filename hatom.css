@@ -151,6 +151,14 @@ p1 {
     grid-template-columns: 1.1fr 1.1fr 1.1fr;
 }
 
+.intro {
+    background-size: cover;
+    background-position: center;
+    filter: drop-shadow(2px 6px 718px #5F3CAD);
+    background-color: transparent;
+    background-position-y: -529px;
+}
+
 @keyframes hatom {
     from {filter: opacity(0%)};
     to   {filter: opacity(100%)};
