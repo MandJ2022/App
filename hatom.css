@@ -55,6 +55,7 @@ p1 {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     column-gap: 20px;
     padding: 20px;
+    margin-top: 40px;
 }
 .portfolio{
     height: 200px;
@@ -176,6 +177,16 @@ h2 {
     left: 75%;
     font-family: 'Montserrat', sans-serif;
     font-size: 25px;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    background-color: transparent;
+    left: 45%;
+    font-size: 35px;
+    font-variant: all-small-caps;
+    top: 212%;
 }
 
 @keyframes hatom {
