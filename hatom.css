@@ -157,6 +157,9 @@ p1 {
     filter: drop-shadow(2px 6px 718px #5F3CAD);
     background-color: transparent;
     background-position-y: -529px;
+    background-position-y: -348px;
+    border-radius: 10px;
+    border-bottom: 5px solid #5F3CAD;
 }
 p2 {
     font-family: 'Montserrat', sans-serif;
