@@ -156,8 +156,7 @@ p1 {
     background-position: center;
     filter: drop-shadow(2px 6px 718px #5F3CAD);
     background-color: transparent;
-    background-position-y: -529px;
-    background-position-y: -348px;
+    background-position-y: -330px;
     border-radius: 10px;
     border-bottom: 5px solid #5F3CAD;
 }
@@ -168,6 +167,7 @@ p2 {
     left: 80%;
     color: white;
     text-decoration: underline;
+    text-shadow: 0px 5px 4px black;
 }
 
 h2 {
@@ -175,7 +175,7 @@ h2 {
     color: white;
     left: 75%;
     font-family: 'Montserrat', sans-serif;
-    font-size: 35px;
+    font-size: 25px;
 }
 
 @keyframes hatom {
