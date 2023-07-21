@@ -121,8 +121,8 @@ p1 {
 .car {
     background-size: cover;
     border-radius: 5px;
-    transition: 8s;
-    box-shadow: inset 0px 0px 20px 0px black;
+    filter: drop-shadow(0px 5px 706px #5F3CAD);
+    background-color: transparent;
 }
 .car-back:hover {
     background-size: cover;
@@ -131,10 +131,6 @@ p1 {
     transform: scaleX(-900px);
     transition: 8s;
     filter: none;
-}
-.third {
-    display: grid;
-    grid-template-columns: 1.1fr 1.1fr 1.1fr;
 }
 
 .intro {
