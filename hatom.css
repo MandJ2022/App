@@ -130,6 +130,8 @@ p1 {
     background-color: transparent;
     border-radius: 10px;
     box-shadow: inset 0px 0px 20px 0px black;
+    z-index: 1;
+    position: relative;
 }
 
 .intro {
