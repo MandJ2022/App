@@ -120,22 +120,16 @@ p1 {
 }
 .car {
     background-size: cover;
-    background-position: center;
     filter: drop-shadow(2px 6px 718px #5F3CAD);
     background-color: transparent;
-    background-position-y: -44px;
     border-radius: 10px;
-    border-bottom: 5px solid #5F3CAD;
 }
 .car2 {
-    background-image: url(jkkljn.png);
     background-size: cover;
     background-position: center;
-    filter: drop-shadow(2px 6px 718px #5F3CAD);
     background-color: transparent;
-    background-position-y: -44px;
     border-radius: 10px;
-    border-bottom: 5px solid #5F3CAD;
+    box-shadow: inset 0px 0px 20px 0px black;
 }
 
 .intro {
