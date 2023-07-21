@@ -171,6 +171,17 @@ h3 {
     font-size: 25px;
     font-variant: all-small-caps;
 }
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    background-color: transparent;
+    left: 45%;
+    transform: translateY(-15px);
+    text-shadow: 0px 2px 3px black;
+    font-size: 25px;
+    font-variant: all-small-caps;
+}
 
 @keyframes hatom {
     from {filter: opacity(0%)};
