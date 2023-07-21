@@ -124,21 +124,6 @@ p1 {
     transition: 8s;
     box-shadow: inset 0px 0px 20px 0px black;
 }
-.car:hover {
-    background-size: cover;
-    box-shadow: 20px 0px 20px 0px #5F3CAD;
-    background-position: right;
-    border-radius: 5px;
-    transform: scaleX(500px);
-    transition: 8s;
-    filter: none;
-}
-
-.car-back {
-    background-size: cover;
-    border-radius: 5px;
-    transition: 8s;
-}
 .car-back:hover {
     background-size: cover;
     border-radius: 5px;
@@ -146,7 +131,6 @@ p1 {
     transform: scaleX(-900px);
     transition: 8s;
     filter: none;
-}
 .third {
     display: grid;
     grid-template-columns: 1.1fr 1.1fr 1.1fr;
