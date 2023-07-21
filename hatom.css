@@ -184,6 +184,13 @@ h4 {
     font-size: 25px;
     font-variant: all-small-caps;
 }
+.web {
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+    background-position-y: -44px;
+    border-radius: 20px;
+}
 
 @keyframes hatom {
     from {filter: opacity(0%)};
