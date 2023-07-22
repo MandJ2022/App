@@ -251,6 +251,7 @@ h4 {
     background-color: transparent;
     border-radius: 20px;
     z-index: 1;
+    position: relative;
 }
 
 @keyframes hatom {
