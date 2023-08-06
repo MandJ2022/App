@@ -253,6 +253,22 @@ h4 {
     z-index: 1;
     position: relative;
 }
+.org {
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+    border-radius: 20px;
+    z-index: 1;
+    position: relative;
+}
+.edt {
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+    border-radius: 20px;
+    z-index: 1;
+    position: relative;
+}
 .containerbnw{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
