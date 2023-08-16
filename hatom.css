@@ -316,24 +316,24 @@ h4 {
 
 a {
     position: relative;
-    top: 250px;
+    top: 200px;
     z-index: 10;
     background-color: transparent;
     text-decoration: none;
     color: white;
-    font-size: 20px;
+    font-size: 15px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
 
 a:hover {
     position: relative;
-    top: 250px;
+    top: 200px;
     z-index: 10;
     background-color: transparent;
     text-decoration: none;
     color: #04f6dd;
-    font-size: 20px;
+    font-size: 15px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
