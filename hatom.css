@@ -388,10 +388,16 @@ a.button:hover {
 
 .pnd {
     background-size: cover;
-  }
-  .pbg {
+}
+.pbg {
     background-size: cover;
-  }
+}
+.ddd {
+    background-size: cover;
+}
+.web {
+    background-size: cover;
+}
 
 
 @keyframes hatom {
