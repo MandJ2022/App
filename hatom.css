@@ -361,13 +361,11 @@ a.button {
     place-self: end;
     margin-top: calc(220vh + var(--offset));
     font-family: 'Montserrat', sans-serif;
-    z-index: 100;
-    background: #0c0b2147
     color: white;
-    border-radius: 13px;
     left: 100%;
     font-size: 15px;
     filter: drop-shadow(2px 4px 2px black);
+    z-index: 5;
   }
 
 a.button:hover {
@@ -381,7 +379,7 @@ a.button:hover {
     z-index: 100;
     background: #04f6ddcf;
     color: black;
-    border-radius: 13px;
+    border-radius: 5px;
     left: 100%;
     font-size: 15px;
     filter: drop-shadow(2px 4px 2px black);
