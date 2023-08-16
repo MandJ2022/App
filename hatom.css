@@ -357,6 +357,16 @@ a.button:hover {
     background-size: cover;
 }
 
+.pagebnw {
+    padding: 10px;
+}
+.pageorg {
+    padding: 10px;
+}
+.pageedt {
+    padding: 10px;
+}
+
 
 @keyframes hatom {
     from {filter: opacity(0%)};
