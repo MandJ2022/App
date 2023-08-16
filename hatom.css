@@ -351,6 +351,22 @@ a:hover {
     border-bottom: 5px solid #5f3cad;
 }
 
+a.button {
+    --offset: 50px;
+    position: sticky;
+    bottom: 20px;
+    margin-right: 45px;
+    place-self: end;
+    margin-top: calc(220vh + var(--offset));
+    font-family: 'Montserrat', sans-serif;
+    z-index: 100;
+    background: #04f6dd4a;
+    color: white;
+    border-radius: 10px;
+    left: 100%;
+    font-variant: petite-caps;
+  }
+
 
 @keyframes hatom {
     from {filter: opacity(0%)};
