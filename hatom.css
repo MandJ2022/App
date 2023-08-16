@@ -177,7 +177,7 @@ p1 {
 }
 .car {
     background-size: cover;
-    filter: drop-shadow(2px -164px 163px #5F3CAD);
+    filter: drop-shadow(2px -47px 100px #5F3CAD);
     background-color: transparent;
     border-radius: 10px;
     border-bottom: 5px solid #5f3cad;
@@ -188,7 +188,7 @@ p1 {
 .intro {
     background-size: cover;
     background-position: center;
-    filter: drop-shadow(240px -125px 176px #04f6dd);
+    filter: drop-shadow(102px -83px 133px #5F3CAD);
     background-color: transparent;
     border-radius: 10px;
     border-bottom: 5px solid #04f6dd;
