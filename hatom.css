@@ -341,6 +341,14 @@ a:hover {
     border-radius: 10px;
 }
 
+.side {
+    background-size: cover;
+    filter: drop-shadow(2px 6px 514px #5F3CAD);
+    background-color: transparent;
+    border-radius: 10px;
+    border-bottom: 5px solid #5f3cad;
+}
+
 
 @keyframes hatom {
     from {filter: opacity(0%)};
