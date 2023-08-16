@@ -362,7 +362,7 @@ a.button {
     margin-top: calc(220vh + var(--offset));
     font-family: 'Montserrat', sans-serif;
     z-index: 100;
-    background: #04f6dd4a;
+    background: #0c0b2147
     color: white;
     border-radius: 13px;
     left: 100%;
