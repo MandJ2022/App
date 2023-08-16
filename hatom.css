@@ -334,6 +334,13 @@ a:hover {
     font-weight: 600;
 }
 
+.gas {
+    background-size: cover;
+    filter: drop-shadow(2px 6px 514px #5F3CAD);
+    background-color: transparent;
+    border-radius: 10px;
+}
+
 
 @keyframes hatom {
     from {filter: opacity(0%)};
