@@ -386,6 +386,13 @@ a.button:hover {
     transition: 0.6s;
   }
 
+.pnd {
+    background-size: cover;
+  }
+  .pbg {
+    background-size: cover;
+  }
+
 
 @keyframes hatom {
     from {filter: opacity(0%)};
