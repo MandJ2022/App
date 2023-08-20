@@ -321,10 +321,11 @@ a.button {
     font-family: 'Montserrat', sans-serif;
     color: white;
     left: 100%;
-    font-size: 15px;
+    font-size: 25px;
     filter: drop-shadow(2px 4px 2px black);
     z-index: 5;
     padding: 10px;
+    font-weight: 600;
   }
 
 a.button:hover {
@@ -340,10 +341,11 @@ a.button:hover {
     color: black;
     border-radius: 5px;
     left: 100%;
-    font-size: 15px;
+    font-size: 25px;
     filter: drop-shadow(2px 4px 2px black);
     transition: 0.6s;
     padding: 10px;
+    font-weight: 600;
   }
 
 .pnd {
