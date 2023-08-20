@@ -209,6 +209,7 @@ p2 {
     background-color: transparent;
     background-position-y: -44px;
     border-radius: 20px;
+    animation: move 10s linear infinite;
 }
 .bnw {
     background-size: cover;
