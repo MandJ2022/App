@@ -318,7 +318,7 @@ a.button {
     margin-right: 20px;
     place-self: end;
     margin-top: calc(220vh + var(--offset));
-    font-family: 'Montserrat', sans-serif;
+    font-family: math;
     color: white;
     left: 100%;
     font-size: 25px;
@@ -335,7 +335,7 @@ a.button:hover {
     margin-right: 20px;
     place-self: end;
     margin-top: calc(220vh + var(--offset));
-    font-family: 'Montserrat', sans-serif;
+    font-family: math;
     z-index: 100;
     background: #04f6ddcf;
     color: black;
