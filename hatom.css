@@ -303,6 +303,7 @@ a:hover {
     filter: drop-shadow(2px 6px 514px #5F3CAD);
     background-color: transparent;
     border-radius: 10px;
+    background-position-y: -44px;
 }
 
 .side {
