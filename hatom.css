@@ -85,6 +85,7 @@ p1 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     column-gap: 20px;
+    padding: 20px;
 }
 .portfolio2{
     height: 200px;
