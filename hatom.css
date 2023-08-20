@@ -351,14 +351,29 @@ a.button:hover {
 
 .pnd {
     background-size: cover;
+    background-position: center;
+    background-color: transparent;
+    background-position-y: -44px;
+    border-radius: 20px;
+    animation: move 10s linear infinite;
 }
 .pbg {
     background-size: cover;
+    background-position: center;
+    background-color: transparent;
+    background-position-y: -44px;
+    border-radius: 20px;
+    animation: move 10s linear infinite;
 }
 .ddd {
     background-size: cover;
+    background-position: center;
+    background-color: transparent;
+    background-position-y: -44px;
+    border-radius: 20px;
+    animation: move 10s linear infinite;
 }
-.web {
+.web1 {
     background-size: cover;
 }
 
@@ -370,6 +385,20 @@ a.button:hover {
 }
 .pageedt {
     padding: 10px;
+}
+
+@keyframes move{
+    0% {
+      filter: hue-rotate(10deg);
+    }
+
+    50% {
+      filter: hue-rotate(80deg);
+    }
+
+    100% {
+      filter: hue-rotate(20deg);
+    }
 }
 
 
