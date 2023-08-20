@@ -340,8 +340,8 @@ a.button:hover {
     margin-top: calc(220vh + var(--offset));
     font-family: math;
     z-index: 100;
-    background: #04f6ddcf;
-    color: black;
+    background: #5f3cad;
+    color: white;
     border-radius: 5px;
     left: 100%;
     font-size: 25px;
