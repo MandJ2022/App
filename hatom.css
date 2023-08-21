@@ -181,7 +181,7 @@ p1 {
     background-color: transparent;
     border-radius: 10px;
     border-bottom: 5px solid #5f3cad;
-    z-index: 10;
+    z-index: 1;
     position: relative;
 }
 
