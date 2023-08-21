@@ -320,7 +320,7 @@ a.button {
     bottom: 20px;
     margin-right: 20px;
     place-self: end;
-    margin-top: calc(220vh + var(--offset));
+    margin-top: calc(394vh + var(--offset));
     font-family: math;
     color: white;
     left: 100%;
@@ -337,7 +337,7 @@ a.button:hover {
     bottom: 20px;
     margin-right: 20px;
     place-self: end;
-    margin-top: calc(220vh + var(--offset));
+    margin-top: calc(394vh + var(--offset));
     font-family: math;
     z-index: 100;
     background: #5f3cad;
