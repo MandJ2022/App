@@ -274,7 +274,7 @@ p2 {
 
 a {
     position: relative;
-    top: 260px;
+    top: 200px;
     z-index: 10;
     background-color: transparent;
     text-decoration: none;
@@ -282,11 +282,12 @@ a {
     font-size: 15px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
+    vertical-align: sub;
 }
 
 a:hover {
     position: relative;
-    top: 260px;
+    top: 200px;
     z-index: 10;
     background-color: transparent;
     text-decoration: none;
@@ -294,6 +295,7 @@ a:hover {
     font-size: 15px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
+    vertical-align: sub;
 }
 
 .gas {
