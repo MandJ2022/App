@@ -1,6 +1,7 @@
 * {
     min-height: 100vh;
     background-color: #0C0B21;
+    padding: 2px;
 }
 html{
     scroll-behavior: smooth;
@@ -274,7 +275,7 @@ p2 {
 
 a {
     position: relative;
-    top: 200px;
+    top: 250px;
     z-index: 10;
     background-color: transparent;
     text-decoration: none;
@@ -287,7 +288,7 @@ a {
 
 a:hover {
     position: relative;
-    top: 200px;
+    top: 250px;
     z-index: 10;
     background-color: transparent;
     text-decoration: none;
