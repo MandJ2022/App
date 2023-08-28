@@ -164,13 +164,13 @@ p1 {
 .hatom-name {
     background-image: url(HatomText.png);
     position: absolute;
-    width: 644px;
+    width: 100%;
     background-size: cover;
     background-position: center;
     z-index: 1;
     background-color: transparent;
     top: 25%;
-    left: 32%;
+    left: 8%;
     transform: translate(-50%, -50%);
     animation: hatom;
     animation-duration: 12s;
