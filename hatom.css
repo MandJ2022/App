@@ -170,7 +170,7 @@ p1 {
     z-index: 1;
     background-color: transparent;
     top: 25%;
-    left: 8%;
+    left: 7%;
     transform: translate(-50%, -50%);
     animation: hatom;
     animation-duration: 12s;
