@@ -406,6 +406,11 @@ h1 {
     color: white;
     display: inline;
     font-size: 20px;
+    top: 200px;
+}
+
+.sixth {
+    text-align: center;
 }
 
 @keyframes move{
