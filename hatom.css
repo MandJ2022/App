@@ -401,6 +401,13 @@ a.button:hover {
     filter: drop-shadow(0px 20px 103px #5F3CAD);
 }
 
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    display: inline;
+    font-size: 20px;
+}
+
 @keyframes move{
     0% {
       filter: hue-rotate(10deg);
