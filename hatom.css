@@ -407,6 +407,7 @@ h1 {
     display: inline;
     font-size: 20px;
     top: 200px;
+    position: relative;
 }
 
 .sixth {
