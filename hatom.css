@@ -379,7 +379,7 @@ a.button:hover {
 .web1 {
     background-size: cover;
     width: 100%;
-    border: 2px solid white;
+    border: 2px solid #ababab;
     border-radius: 5px;
     background-position: center;
 }
