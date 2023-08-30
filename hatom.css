@@ -341,7 +341,7 @@ a.button:hover {
     margin-top: calc(394vh + var(--offset));
     font-family: math;
     z-index: 100;
-    background: #5f3cad;
+    background: #04f6dd;
     color: white;
     border-radius: 5px;
     left: 100%;
